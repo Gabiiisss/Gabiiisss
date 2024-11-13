@@ -13,12 +13,12 @@ rel="stylesheet">
 <header>ALURAFLIX</header>
 <section class="chamada">
 <div class="chamada-texto">
-<h1>ATRAVÉS DO ARANHAVERSO</h1>
-<p>#homem-aranha</p>
+<h1>Enrolados</h1>
+<p>#Rapunzel</p>
 </div>
 <div>
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
+src="https://youtu.be/GaYo2glRato?si=9e30PPcuthMDy6UY"
 title="YouTube video player" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture; web-share"
