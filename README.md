@@ -28,8 +28,8 @@ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <section class="categoria">
 <h2>Filmes e séries</h2>
 <div class="categoria-videos">
-<a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-<img src="https://images.app.goo.gl/FEnEuehccmDD4Cbz5" />
+<a href="https://www.youtube.com/watch?v=GaYo2glRato&t">
+<img src="https://img.youtube.com/vi/GaYo2glRato&t/maxresdefault.jpg" />
 </a>
 <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
 <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
