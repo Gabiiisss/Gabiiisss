@@ -29,7 +29,7 @@ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2>Filmes e séries</h2>
 <div class="categoria-videos">
 <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-<img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+<img src="https://images.app.goo.gl/FEnEuehccmDD4Cbz5" />
 </a>
 <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
 <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
